@@ -6,3 +6,6 @@ function arrBtn(){
 	console.log(arr);
 	
 }
+function ohjBtn(){
+	objBtn["name"];
+}
