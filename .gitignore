@@ -1,0 +1,6 @@
+sample.md
+build/
+!sample.txt
+doc/**/c*.readme
+*.war
+/
