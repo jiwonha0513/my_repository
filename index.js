@@ -7,5 +7,6 @@ function arrBtn(){
 	
 }
 function ohjBtn(){
-	objBtn["name"];
+	objBtn["name"] = "kim";
+	console.log(objBtn);
 }
